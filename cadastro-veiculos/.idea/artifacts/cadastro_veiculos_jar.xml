@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cadastro-veiculos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cadastro_veiculos_jar</output-path>
+    <root id="archive" name="cadastro-veiculos.jar">
+      <element id="module-output" name="cadastro-veiculos" />
+    </root>
+  </artifact>
+</component>
